@@ -5012,3 +5012,109 @@
 
 )
 
+[23-May-2024 13:23:20 UTC] PHP Warning:  Undefined array key 0 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-url.php on line 34
+[23-May-2024 13:23:20 UTC] PHP Warning:  Undefined array key 1 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-url.php on line 34
+[23-May-2024 13:26:09 UTC] PHP Warning:  Undefined array key 0 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:26:09 UTC] PHP Warning:  Undefined array key 1 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:26:10 UTC] PHP Warning:  Undefined array key 0 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:26:10 UTC] PHP Warning:  Undefined array key 1 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:26:15 UTC] PHP Warning:  Undefined array key 0 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:26:15 UTC] PHP Warning:  Undefined array key 1 in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\elementor-pro\modules\dynamic-tags\acf\tags\acf-gallery.php on line 36
+[23-May-2024 13:32:37 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 13:46:11 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
