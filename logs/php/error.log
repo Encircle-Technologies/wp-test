@@ -1,0 +1,6 @@
+[23-May-2024 07:23:12 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\India\Local Sites\wp-test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[23-May-2024 07:23:12 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[23-May-2024 07:23:12 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[23-May-2024 07:23:12 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[23-May-2024 07:23:12 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[23-May-2024 07:23:12 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\India\Local Sites\wp-test\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
