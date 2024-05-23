@@ -11,3 +11,35 @@ Updated: 2024-05-23 07:23:12
 
 */
 
+/* Custom styles for the header */
+#site-header {
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.site-branding p.site-title, .site-branding h1.site-title {
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 44px;
+    text-transform: uppercase;
+}
+.main-navigation {
+    flex-grow: 1;
+    text-align: right;
+}
+ ul.menu{
+    display: flex;
+    list-style: none;
+    justify-content: end;
+}
+ul.menu li{
+    padding-left: 20px;
+    padding-right: 20px;
+}
