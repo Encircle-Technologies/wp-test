@@ -43,3 +43,250 @@ ul.menu li{
     padding-left: 20px;
     padding-right: 20px;
 }
+
+
+
+/* banner api css */
+
+.stock-data {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+.stock-data h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.stock-data p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+/*  banner api css end */
+
+
+
+
+/* Header Styling */
+
+
+/* .site-branding {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+} */
+
+.site-branding .site-title,
+.site-branding .site-description {
+    margin: 5px 0;
+}
+
+.main-navigation {
+    flex: 1;
+    text-align: center;
+}
+
+.main-navigation ul {
+    list-style-type: none;
+}
+
+.main-navigation ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.main-navigation a {
+    text-decoration: none;
+    color: #333;
+}
+
+.main-navigation a:hover {
+    text-decoration: underline;
+}
+
+.header-container img {
+    width: 80px;
+    height: auto;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .main-navigation ul {
+        padding: 0;
+    }
+
+    .main-navigation ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .header-container img {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .site-branding .site-title {
+        font-size: 1.5em;
+    }
+
+    .site-branding .site-description {
+        font-size: 1em;
+    }
+
+    .main-navigation ul li {
+        margin: 5px 0;
+    }
+
+    .header-container img {
+        width: 60px;
+    }
+}
+
+
+
+
+
+
+ul.product-hunt-posts {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.product-hunt-posts li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+}
+
+ul.product-hunt-posts li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #0073aa;
+}
+
+ul.product-hunt-posts li a:hover {
+    color: #005177;
+}
+
+
+
+
+/* Hide the menu toggle button and show the menu by default on desktop */
+.menu-toggle {
+    display: none;
+}
+
+#primary-menu {
+    display: block;
+}
+
+/* Style the hamburger icon */
+.menu-toggle .hamburger-icon,
+.menu-toggle .hamburger-icon::before,
+.menu-toggle .hamburger-icon::after {
+    background-color: #333; /* Set your desired color here */
+}
+
+/* Adjust the styling for the hamburger icon */
+.menu-toggle .hamburger-icon {
+    display: block;
+    width: 25px;
+    height: 2px;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+.menu-toggle .hamburger-icon::before,
+.menu-toggle .hamburger-icon::after {
+    content: '';
+    width: 25px;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    transition: background-color 0.3s ease;
+}
+
+.menu-toggle .hamburger-icon::before {
+    top: -8px;
+}
+
+.menu-toggle .hamburger-icon::after {
+    bottom: -8px;
+}
+
+
+/* Change the hamburger icon color when the button is active */
+.menu-toggle.active .hamburger-icon,
+.menu-toggle.active .hamburger-icon::before,
+.menu-toggle.active .hamburger-icon::after {
+    background-color: #0073aa; /* Set your desired active color here */
+}
+
+
+/* ------------------------------ */
+header{
+    position: relative;
+}
+.main-navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+button.menu-toggle {
+    border: none !important;
+    background: none !important;
+    border: none !important;
+    outline: none !important;
+}
+button.menu-toggle.active {
+    background: none !important;
+    border: none !important;
+    outline: none !important;
+}
+.menu-menu-container ul.active {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    display: flex !important;
+    flex-direction: column;
+    z-index: 999999999;
+    left: 0;
+    background-color: #fff;
+    padding: 0 !important;
+} 
+.main-navigation ul li {
+    padding: 10px;
+}
+
+.menu-toggle{
+    display: none !important;
+}
+/* Show the menu toggle button and hide the menu on mobile and tablet */
+@media (max-width: 1024px) {
+    .menu-toggle {
+        display: block !important;
+    }
+    #primary-menu {
+        display: none;
+    }
+}
+
+/* Show the menu when the toggle button is active on mobile and tablet */
+@media (max-width: 1024px) {
+    .menu-toggle.active + #primary-menu {
+        display: block;
+    }
+}
