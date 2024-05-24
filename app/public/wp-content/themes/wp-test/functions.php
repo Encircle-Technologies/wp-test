@@ -43,8 +43,8 @@ function fetch_product_hunt_data($atts) {
         'post' => 3,
     ), $atts, 'product_hunt_posts');
     $num_posts = intval($atts['post']);
+    $apikey= get_field('product_hunt_api', 'option');
     $api_url = 'https://api.producthunt.com/v2/api/graphql';
-    $apikey="UCRY63EzWPQUiX4c02507QWoLhFX9gXrd3gSZ3DIUWA";
     $args = array(
         'headers' => array(
             'Authorization' => 'Bearer ' .$apikey,
@@ -92,7 +92,7 @@ function weather_shortcode($atts) {
         'location' => 'London,uk'
     ), $atts);
     $location = esc_js($atts['location']);
-    $api_key = '84a561f2a4b08a5ca0637bfd5b7272fe'; 
+    $api_key= get_field('weather_api', 'option');
     ob_start();
     ?>
     <script>
@@ -145,6 +145,26 @@ function currentYear( $atts ){
 }
 add_shortcode( 'year', 'currentYear' );
 // Footer Current year end
+
+
+//Theme Option
+add_action('acf/init', 'my_acf_op_init');
+function my_acf_op_init() {
+
+    // Check function exists.
+    if( function_exists('acf_add_options_page') ) {
+
+        // Register options page.
+        $option_page = acf_add_options_page(array(
+            'page_title'    => __('Theme Options'),
+            'menu_title'    => __('Theme Options'),
+            'menu_slug'     => 'theme-options',
+            'capability'    => 'edit_posts',
+            'redirect'      => false
+        ));
+    }
+}
+
 
 
 
