@@ -9263,3 +9263,313 @@ Stack trace:
 
 )
 
+[24-May-2024 08:15:05 UTC] PHP Parse error:  syntax error, unexpected variable "$api_key" in C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\wp-test\functions.php on line 96
+[24-May-2024 08:16:15 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:17:21 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:17:25 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:17:29 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:17:29 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:17:48 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 08:18:02 UTC] API response: Array
+(
+    [data] => 
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [error] => invalid_oauth_token
+                    [error_description] => Please supply a valid access token. Refer to our api documentation about how to authorize an api request. Please also make sure you require the correct scopes. Eg "private public" for to access private endpoints.
+                )
+
+        )
+
+)
+
