@@ -37,22 +37,17 @@ function mytheme_child_setup() {
 }
 add_action('after_setup_theme', 'mytheme_child_setup');
 
-
-
-//
+// Product hunt api for banner start (It will display number of post based on post count like this - [product_hunt_posts post="3"])
 function fetch_product_hunt_data($atts) {
-    // Extract the 'post' attribute from the shortcode, default to 3 if not provided
     $atts = shortcode_atts(array(
         'post' => 3,
     ), $atts, 'product_hunt_posts');
-
-    // Ensure the 'post' attribute is an integer
     $num_posts = intval($atts['post']);
-
     $api_url = 'https://api.producthunt.com/v2/api/graphql';
+    $apikey="UCRY63EzWPQUiX4c02507QWoLhFX9gXrd3gSZ3DIUWA";
     $args = array(
         'headers' => array(
-            'Authorization' => 'Bearer ' . PRODUCT_HUNT_API_KEY,
+            'Authorization' => 'Bearer ' .$apikey,
             'Content-Type' => 'application/json',
         ),
         'body' => json_encode(array(
@@ -88,5 +83,68 @@ function fetch_product_hunt_data($atts) {
     $output .= '</ul>';
     return $output;
 }
-
 add_shortcode('product_hunt_posts', 'fetch_product_hunt_data');
+// Product hunt api for banner end
+
+// weather api start (It will fetch weather based on location givin in paramiter like this - [weather location="Europe"])
+function weather_shortcode($atts) {
+    $atts = shortcode_atts(array(
+        'location' => 'London,uk'
+    ), $atts);
+    $location = esc_js($atts['location']);
+    $api_key = '84a561f2a4b08a5ca0637bfd5b7272fe'; 
+    ob_start();
+    ?>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const placeholder = document.getElementById('weather-placeholder');
+            if (!placeholder) return;
+            const location = "<?php echo $location; ?>";
+            const apiKey = "<?php echo $api_key; ?>";
+            fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}&units=metric`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    if (data.cod !== 200) {
+                        placeholder.innerHTML = '<p>Unable to retrieve weather data.</p>';
+                        return;
+                    }
+
+                    const locationName = data.name;
+                    const temperature = data.main.temp;
+                    const description = data.weather[0].description;
+                    const icon = data.weather[0].icon;
+                    const iconUrl = `https://openweathermap.org/img/wn/${icon}.png`;
+
+                    placeholder.innerHTML = `
+                        <div class='weather-widget'>
+                            <strong>Weather in ${locationName}</strong>
+                            <p>Temperature: ${temperature}&deg;C</p>
+                        </div>
+                    `;
+                })
+                .catch(error => {
+                    placeholder.innerHTML = '<p>Unable to retrieve weather data.</p>';
+                    console.error('There was a problem with the fetch operation:', error);
+                });
+        });
+    </script>
+    <?php
+    return ob_get_clean();
+}
+add_shortcode('weather', 'weather_shortcode');
+// weather api end
+
+// Footer Current year start
+function currentYear( $atts ){
+    return date('Y');
+}
+add_shortcode( 'year', 'currentYear' );
+// Footer Current year end
+
+
+

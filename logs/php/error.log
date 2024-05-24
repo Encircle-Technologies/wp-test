@@ -5118,3 +5118,4148 @@
 
 )
 
+[23-May-2024 14:05:57 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:07:46 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:11:37 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:12:01 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:12:45 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:13:28 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:14:05 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:14:30 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:14:54 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:15:05 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:15:16 UTC] PHP Parse error:  syntax error, unexpected token ";" in C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\wp-test\header.php on line 80
+[23-May-2024 14:15:23 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[23-May-2024 14:15:31 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:29:04 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:31:01 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:31:31 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:31:56 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:32:40 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 05:36:00 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:00:19 UTC] PHP Parse error:  syntax error, unexpected variable "$args" in C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\wp-test\functions.php on line 54
+[24-May-2024 06:00:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\India\Local Sites\wp-test\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[24-May-2024 06:00:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\India\Local Sites\wp-test\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[24-May-2024 06:00:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:01:03 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:01:03 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:02:24 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:02:28 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:32:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\India\Local Sites\wp-test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[24-May-2024 06:32:30 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:37:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\India\Local Sites\wp-test\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[24-May-2024 06:37:35 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:37:48 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:38:03 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:42:22 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:42:24 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:42:33 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [3] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Flowlu 2.0
+                                            [tagline] => The future of business is all-in-one
+                                            [url] => https://www.producthunt.com/posts/flowlu-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [4] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Arrange
+                                            [tagline] => ChatGPT for your calendar
+                                            [url] => https://www.producthunt.com/posts/arrange-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [5] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => DataGems
+                                            [tagline] => AI copilot for marketing data
+                                            [url] => https://www.producthunt.com/posts/datagems?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [6] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Rombo β
+                                            [tagline] => Add buttery-smooth web animations in seconds
+                                            [url] => https://www.producthunt.com/posts/rombo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [7] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Usermaven 2.0
+                                            [tagline] => Future of web and product analytics powered by AI
+                                            [url] => https://www.producthunt.com/posts/usermaven-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [8] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Browsebuddy
+                                            [tagline] => An AI co-pilot for e-commerce 
+                                            [url] => https://www.producthunt.com/posts/browsebuddy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [9] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Rise 2.0
+                                            [tagline] => Projects, Tasks, Outlook and Mobile
+                                            [url] => https://www.producthunt.com/posts/rise-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [10] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Muse for Setapp
+                                            [tagline] => Your cozy space for deep thinking
+                                            [url] => https://www.producthunt.com/posts/muse-for-setapp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [11] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Uptime Monster
+                                            [tagline] => Monitor your websites and servers from one place
+                                            [url] => https://www.producthunt.com/posts/uptime-monster?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [12] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Visualizee.ai 2.0
+                                            [tagline] => AI rendering tool to create realistic visualizations
+                                            [url] => https://www.producthunt.com/posts/visualizee-ai-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:42:40 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:45:56 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:52:14 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:53:13 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:53:49 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:56:45 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:58:27 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:58:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 06:59:16 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:00:07 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:00:32 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:00:54 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Opinion Stage AI
+                                            [tagline] => Boost leads & sales with quizzes & surveys
+                                            [url] => https://www.producthunt.com/posts/opinion-stage-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StockPe
+                                            [tagline] => Learn stock and crypto markets easily
+                                            [url] => https://www.producthunt.com/posts/stockpe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => StarSearch
+                                            [tagline] => AI Copilot, but for git history
+                                            [url] => https://www.producthunt.com/posts/starsearch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:01:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Get Roasted Now
+                                            [tagline] => Get more control & more customers with a landing page roast 
+                                            [url] => https://www.producthunt.com/posts/get-roasted-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:02:33 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Get Roasted Now
+                                            [tagline] => Get more control & more customers with a landing page roast 
+                                            [url] => https://www.producthunt.com/posts/get-roasted-now?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => World of Gami
+                                            [tagline] => An AI-powered Trello alternative with gamification.
+                                            [url] => https://www.producthunt.com/posts/world-of-gami?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:03:24 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Launch Code
+                                            [tagline] => Take Control of Your Course Revenue | a nextjs boilerplate
+                                            [url] => https://www.producthunt.com/posts/launch-code-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:03:26 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Launch Code
+                                            [tagline] => Take Control of Your Course Revenue | a nextjs boilerplate
+                                            [url] => https://www.producthunt.com/posts/launch-code-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:03:56 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Context Data
+                                            [tagline] => Data Processing Infra & ETL for Generative AI applications
+                                            [url] => https://www.producthunt.com/posts/context-data?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:03:57 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:05:25 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Frentro
+                                            [tagline] => The easiest B2B pay-per-referral marketplace.
+                                            [url] => https://www.producthunt.com/posts/frentro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:07:54 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:08:20 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:08:52 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:09:48 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:09:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:12:15 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:14:12 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:17:12 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:19:38 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:20:06 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:22:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:23:57 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:25:09 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:25:25 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:25:59 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:30:49 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:31:44 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:32:07 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:33:14 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:34:30 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:36:17 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:37:34 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:37:48 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:38:05 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:38:17 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:38:32 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function issset() in C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\wp-test\header.php:19
+Stack trace:
+#0 C:\Users\India\Local Sites\wp-test\app\public\wp-includes\template.php(810): require_once()
+#1 C:\Users\India\Local Sites\wp-test\app\public\wp-includes\template.php(745): load_template('C:\\Users\\India\\...', true, Array)
+#2 C:\Users\India\Local Sites\wp-test\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\hello-elementor\index.php(15): get_header()
+#4 C:\Users\India\Local Sites\wp-test\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\India\\...')
+#5 C:\Users\India\Local Sites\wp-test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\India\\...')
+#6 C:\Users\India\Local Sites\wp-test\app\public\index.php(17): require('C:\\Users\\India\\...')
+#7 {main}
+  thrown in C:\Users\India\Local Sites\wp-test\app\public\wp-content\themes\wp-test\header.php on line 19
+[24-May-2024 07:40:15 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:48:17 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:50:21 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:50:45 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:50:54 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:51:21 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[24-May-2024 07:54:55 UTC] API response: Array
+(
+    [data] => Array
+        (
+            [posts] => Array
+                (
+                    [edges] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Dspense Wallet
+                                            [tagline] => Manage, stake, swap your crypto effortlessly via Telegram 👻
+                                            [url] => https://www.producthunt.com/posts/dspense-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Call Arc
+                                            [tagline] => For questions on the go
+                                            [url] => https://www.producthunt.com/posts/call-arc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [node] => Array
+                                        (
+                                            [name] => Robots.txt Generator
+                                            [tagline] => The right robots.txt file for your project
+                                            [url] => https://www.producthunt.com/posts/robots-txt-generator-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+My+API+%28ID%3A+124589%29
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

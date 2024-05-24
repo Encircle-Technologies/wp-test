@@ -16,7 +16,6 @@ Updated: 2024-05-23 07:23:12
     background: #f5f5f5;
     padding: 20px;
 }
-
 .header-container {
     display: flex;
     justify-content: space-between;
@@ -44,7 +43,7 @@ ul.menu li{
     padding-right: 20px;
 }
 
-
+a{ color: #000; }
 
 /* banner api css */
 
@@ -67,20 +66,7 @@ ul.menu li{
 
 /*  banner api css end */
 
-
-
-
 /* Header Styling */
-
-
-/* .site-branding {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    flex: 1;
-} */
-
 .site-branding .site-title,
 .site-branding .site-description {
     margin: 5px 0;
@@ -109,9 +95,23 @@ ul.menu li{
     text-decoration: underline;
 }
 
+.main-navigation .current-menu-item{
+    text-decoration: underline;
+    font-weight: bold;
+}
 .header-container img {
     width: 80px;
     height: auto;
+}
+
+/* Read more */
+.ctm-button .elementor-post__read-more{
+    background: #000;
+    padding: 10px;
+    line-height: 1.45em;
+}
+.ctm-button .elementor-post__read-more:hover{
+    background: #6EC1E4;
 }
 
 /* Responsive Styles */
@@ -130,9 +130,7 @@ ul.menu li{
         margin: 10px 0;
     }
 
-    .header-container img {
-        margin-top: 10px;
-    }
+    
 }
 
 @media (max-width: 480px) {
@@ -149,14 +147,27 @@ ul.menu li{
     }
 
     .header-container img {
-        width: 60px;
+        width: 40px;
+    }
+    .weather-widget{
+        font-size: 12px;
+        line-height: normal;
+    }
+    .weather-widget p{
+       margin-bottom: 0px;
+    }
+    .site-branding p.site-title, .site-branding h1.site-title {
+        font-size: 26px;
+        font-weight: bold;
+        line-height: 36px;
+        text-transform: uppercase;
     }
 }
 
-
-
-
-
+.forminator-ui.forminator-custom-form[data-design=flat] .forminator-button:hover  {
+    -webkit-box-shadow: 0 0px 0px 0 rgba(0, 0, 0, .6) !important;
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, .6) !important;
+}
 
 ul.product-hunt-posts {
     list-style-type: none;
@@ -181,9 +192,6 @@ ul.product-hunt-posts li a {
 ul.product-hunt-posts li a:hover {
     color: #005177;
 }
-
-
-
 
 /* Hide the menu toggle button and show the menu by default on desktop */
 .menu-toggle {
